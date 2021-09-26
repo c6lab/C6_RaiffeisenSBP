@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
+	<Enum uuid="68740b77-790f-4593-90d5-c2509ab59f97">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ТипыОплатЧекаККМ" category="Ref">
+				<xr:TypeId>c7b88348-6ef6-4886-b75f-f535b146119b</xr:TypeId>
+				<xr:ValueId>4ce2cc64-0361-41a8-a7d7-a9cabcce9281</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ТипыОплатЧекаККМ" category="Manager">
+				<xr:TypeId>cff426d6-2b76-45de-b515-17876fb2dc44</xr:TypeId>
+				<xr:ValueId>345789f5-42a1-42fc-be3b-61eabd9f1af5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ТипыОплатЧекаККМ" category="List">
+				<xr:TypeId>b2a5612d-2738-47ad-b222-e126a9ef102b</xr:TypeId>
+				<xr:ValueId>ad3da82a-6142-4434-b336-e1f7ae048125</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ТипыОплатЧекаККМ</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>e3411c62-81f2-46e5-a1e1-83eb9516c98c</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Enum>
+</MetaDataObject>

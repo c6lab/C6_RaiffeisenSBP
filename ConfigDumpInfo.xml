@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
+	<ConfigVersions>
+		<Metadata name="Catalog.ВидыОплатЧекаККМ" id="11c68a9e-74b2-4839-a98b-bfe1642435fd" configVersion="d1c22c12f77877763d9676a215413f2d45190827"/>
+		<Metadata name="Catalog.КассыККМ" id="1dda07c7-f954-41d1-a08d-446c77b40999" configVersion="fec9c8b40caa83b1759df78a7769a853de7d14cb"/>
+		<Metadata name="Catalog.Магазины" id="80aa630b-4412-4645-876c-1b2539324567" configVersion="7a9f99ff8c400f56ada9901cb26335473c95c231"/>
+		<Metadata name="Catalog.Организации" id="fe98bf04-487b-4595-9ff2-4ebd620f77be" configVersion="baedd320337d5b745caaaa2cb6a933e409d9606f"/>
+		<Metadata name="CommonCommand.C6_НастройкиСБП" id="8201c35e-a71d-48b4-89fd-9fe182d6e3d8" configVersion="ef18c76f952efd16990c6c3e99f62a239926d33b"/>
+		<Metadata name="CommonCommand.C6_НастройкиСБП.CommandModule" id="8201c35e-a71d-48b4-89fd-9fe182d6e3d8.2" configVersion="55162ecf863df7817fca227a859fd6acb6b70670"/>
+		<Metadata name="CommonCommand.C6_ПроверкаТелеметрона" id="5f4b6254-e6a6-4469-909d-6e744b424135" configVersion="a61568c0fa4f3d065ca3679b4aa8edf397c526b6"/>
+		<Metadata name="CommonCommand.C6_ПроверкаТелеметрона.CommandModule" id="5f4b6254-e6a6-4469-909d-6e744b424135.2" configVersion="c1627ac4add0ecc3819834c5c90f60ab6cb73005"/>
+		<Metadata name="CommonCommand.C6_ТестQRДисплея" id="76a18f2a-8821-4608-a09a-9548f38845d4" configVersion="2c5fddddf69f077a49f1b6b459ebd698826a6aa0"/>
+		<Metadata name="CommonCommand.C6_ТестQRДисплея.CommandModule" id="76a18f2a-8821-4608-a09a-9548f38845d4.2" configVersion="0a84de58073cc8c6715f7255a80e7a779a4549a6"/>
+		<Metadata name="CommonForm.C6_ТестQRДисплея" id="3a02f9be-a410-4069-b05c-0be5bbf896bb" configVersion="b9065a9ed4206343fae75de23f590dbb7ef24f93"/>
+		<Metadata name="CommonForm.C6_ТестQRДисплея.Form" id="3a02f9be-a410-4069-b05c-0be5bbf896bb.0" configVersion="c4215d7873a7c7781e2113af8a43f6a0495a032f"/>
+		<Metadata name="CommonModule.C6_QRДисплей" id="b7b11f85-b8bb-4d2e-8179-7ead329beb11" configVersion="4e70907c1319fb3188d39df07e8963316a9ffb08"/>
+		<Metadata name="CommonModule.C6_QRДисплей.Module" id="b7b11f85-b8bb-4d2e-8179-7ead329beb11.0" configVersion="458688746cf43e6324a29b919a188b442be92324"/>
+		<Metadata name="CommonModule.C6_QRДисплейВызовСервера" id="13782d90-3e90-48f8-a13e-e871ecd14af3" configVersion="ed69cfced40ac2cb741ac73cbf6b1724ace8be76"/>
+		<Metadata name="CommonModule.C6_QRДисплейВызовСервера.Module" id="13782d90-3e90-48f8-a13e-e871ecd14af3.0" configVersion="c1e43c01bbf102446a1237714cac032575f0729d"/>
+		<Metadata name="CommonModule.C6_RaiffeisenSBP" id="cd692989-b96b-4713-baa9-377dcad91135" configVersion="0a7b82a74f91ad45bfe2736e2106e8398e0b6480"/>
+		<Metadata name="CommonModule.C6_RaiffeisenSBP.Module" id="cd692989-b96b-4713-baa9-377dcad91135.0" configVersion="42160b8752199326e62980cab68c59b5db88b3a5"/>
+		<Metadata name="CommonModule.C6_ОбщиеСервер" id="dddadfe5-144c-4d3e-83d5-3a5f21b96506" configVersion="3d3ff6de76ce9fb6d1442c5bb34b6fcbe0ad3f4c"/>
+		<Metadata name="CommonModule.C6_ОбщиеСервер.Module" id="dddadfe5-144c-4d3e-83d5-3a5f21b96506.0" configVersion="01165435e87b366924bada6fb0da8a1e9cf44c3f"/>
+		<Metadata name="CommonModule.C6_РайффайзенAPIКлиент" id="b9bde7ab-c837-4bfb-b8e6-585130779ddf" configVersion="d75e142c06b09233b635efb74ca34444aac76529"/>
+		<Metadata name="CommonModule.C6_РайффайзенAPIКлиент.Module" id="b9bde7ab-c837-4bfb-b8e6-585130779ddf.0" configVersion="39c603037f48988629ab717f47015c77749bed1b"/>
+		<Metadata name="CommonModule.C6_РайффайзенAPIСервер" id="f8df9d39-81b1-4d3b-b6ba-d55ef3236bb0" configVersion="f084b942f75e36d7b3386455b7be24df8f4e66b5"/>
+		<Metadata name="CommonModule.C6_РайффайзенAPIСервер.Module" id="f8df9d39-81b1-4d3b-b6ba-d55ef3236bb0.0" configVersion="9847eecdda1b08a5a4a6aa6ac9294fb07008ae9c"/>
+		<Metadata name="CommonModule.C6_СБПВызовСервера" id="3597eac5-6763-4a12-91ae-bb4e6b8ea96d" configVersion="02a33389b88478ee8df2a01e67f14c9f5b445b0b"/>
+		<Metadata name="CommonModule.C6_СБПВызовСервера.Module" id="3597eac5-6763-4a12-91ae-bb4e6b8ea96d.0" configVersion="9a2114106a352e3cbfdb7e9764c1d752752d3943"/>
+		<Metadata name="CommonModule.C6_СБПКлиент" id="81b0ff59-6554-48f3-b6af-6b7861e3af57" configVersion="f6c2da502fb9e7d016d82a4ec92b385858e52041"/>
+		<Metadata name="CommonModule.C6_СБПКлиент.Module" id="81b0ff59-6554-48f3-b6af-6b7861e3af57.0" configVersion="b7fe7ff047ea186c1d0bb43f41a608d64044d59e"/>
+		<Metadata name="CommonModule.C6_СБПСервер" id="32904daa-7ec8-4b78-b714-34563969b722" configVersion="e439dfbea4d95f3f7b871c42ac25551b74bcfba0"/>
+		<Metadata name="CommonModule.C6_СБПСервер.Module" id="32904daa-7ec8-4b78-b714-34563969b722.0" configVersion="f4ee03161a9527b6b17bd6933810cbdbcffd3109"/>
+		<Metadata name="CommonModule.ДополнительныеОтчетыИОбработкиКлиентПереопределяемый" id="394469fc-cc17-4e19-844d-5e0939b1f059" configVersion="945339ba826fbfb4909d49f9eeb1b15f2ad9af48"/>
+		<Metadata name="CommonModule.ДополнительныеОтчетыИОбработкиКлиентПереопределяемый.Module" id="394469fc-cc17-4e19-844d-5e0939b1f059.0" configVersion="f39675950e49ee721a879247c45607ac6858889d"/>
+		<Metadata name="CommonModule.ПодключаемыеКомандыКлиент" id="fcc22882-9abd-4fdc-96bf-3d3c15f7cb70" configVersion="492223d2fed0d9101afc681831acf989a507e8c9"/>
+		<Metadata name="CommonModule.ПодключаемыеКомандыКлиент.Module" id="fcc22882-9abd-4fdc-96bf-3d3c15f7cb70.0" configVersion="0d89aa082dde773016b3a7ba99acfc3c296e0fad"/>
+		<Metadata name="CommonModule.СобытияФормИС" id="5730f962-96f9-433d-8ae3-a88699425506" configVersion="ab349d88e8a6868e2ebc52697752c4ac0e186481"/>
+		<Metadata name="CommonModule.СобытияФормИС.Module" id="5730f962-96f9-433d-8ae3-a88699425506.0" configVersion="b1625967e601204c5496a2c68d33b92ae28f2711"/>
+		<Metadata name="CommonModule.СобытияФормРТ" id="018f8d3c-6ce3-4f84-97a9-b754e4e65d02" configVersion="f77d2eb7843f82578188cf1096dc632144e19928"/>
+		<Metadata name="CommonModule.СобытияФормРТ.Module" id="018f8d3c-6ce3-4f84-97a9-b754e4e65d02.0" configVersion="cfbf7f9f381b6c4c5cf96bc2836d6ac672a4da67"/>
+		<Metadata name="CommonModule.УправлениеПечатьюСлужебныйКлиент" id="bedc987c-887b-408a-be06-d59d19651819" configVersion="ae0f030ad0ef0b84bb32275b6f358cacf1f35a10"/>
+		<Metadata name="CommonModule.УправлениеПечатьюСлужебныйКлиент.Module" id="bedc987c-887b-408a-be06-d59d19651819.0" configVersion="7d6cbe35f0a4e96f2445e9c10df1144ee5b9fb48"/>
+		<Metadata name="CommonPicture.C6_ЛогоБанка" id="b3247069-ad9f-40bd-aedd-7f4477872f00" configVersion="7dbd26facabdae3e08c0e6774f168f9c5e90c9e0"/>
+		<Metadata name="CommonPicture.C6_ЛогоБанка.Picture" id="b3247069-ad9f-40bd-aedd-7f4477872f00.0" configVersion="55dcdc08103ee90bc66ccdb07a3e05c0fab2d451"/>
+		<Metadata name="CommonTemplate.C6_ДрайверQRДисплея32" id="84aa988b-d9dc-4e18-8b6e-66d41457318d" configVersion="6cbfafc3106d0bea6dc42af5573aba45909f8087"/>
+		<Metadata name="CommonTemplate.C6_ДрайверQRДисплея32.Template" id="84aa988b-d9dc-4e18-8b6e-66d41457318d.0" configVersion="63b84bc305b49e8776d626584073e362b77aa9be"/>
+		<Metadata name="CommonTemplate.C6_ДрайверQRДисплея64" id="fe08d7b4-44da-4aa3-a39c-d2b1284b2acf" configVersion="da6ee590024f9c6cc72ecb8dbccaa98f8760e6bf"/>
+		<Metadata name="Configuration.C6_RaiffeisenSBP" id="640df73c-7479-4989-9a30-cb9dae5888b4" configVersion="72cd31f0d45f10886abed3d761c9e0eab2b9375b"/>
+		<Metadata name="Document.ЧекККМ" id="0e4f69c3-aec7-47c5-84f3-12ea7951dc20" configVersion="9b1ebac2e4e82834ffdd6727ea517c382474a293"/>
+		<Metadata name="Document.ЧекККМ.ObjectModule" id="0e4f69c3-aec7-47c5-84f3-12ea7951dc20.0" configVersion="9e3a9192db080193f83d3a51ae99a702320d72a3"/>
+		<Metadata name="Enum.C6_СБПСтатусыКодовОплаты" id="6abdd9f4-1841-43e5-be71-b491f4320577" configVersion="ca7ca24eed7de7740f18768cfabf92bacc09b870">
+			<Metadata name="Enum.C6_СБПСтатусыКодовОплаты.EnumValue.NO_INFO" id="381cb3ac-52b5-4bde-a388-58c3506b0b38"/>
+			<Metadata name="Enum.C6_СБПСтатусыКодовОплаты.EnumValue.IN_PROGRESS" id="add38fb3-d43b-415d-a9fa-1081a32ba7d0"/>
+			<Metadata name="Enum.C6_СБПСтатусыКодовОплаты.EnumValue.DECLINED" id="e70b621a-633d-4204-bbcf-71a5519cac38"/>
+			<Metadata name="Enum.C6_СБПСтатусыКодовОплаты.EnumValue.SUCCESS" id="f74e6b29-e2ed-4726-bcd0-fb8363c302cc"/>
+		</Metadata>
+		<Metadata name="Enum.C6_СБПСтатусыОпераций" id="54d30d97-f326-4ae3-8f30-454825371a52" configVersion="16be678e5ed1e4a3f3ba924bb0c7c14e7da25ede">
+			<Metadata name="Enum.C6_СБПСтатусыОпераций.EnumValue.COMPLETED" id="3a772149-5062-4066-9f82-3f104a742090"/>
+			<Metadata name="Enum.C6_СБПСтатусыОпераций.EnumValue.IN_PROGRESS" id="8bf0d97b-2a78-4529-9a55-d817369eeecb"/>
+			<Metadata name="Enum.C6_СБПСтатусыОпераций.EnumValue.DECLINED" id="bdcafbb9-b1ba-497f-b5d9-7f34e767603c"/>
+			<Metadata name="Enum.C6_СБПСтатусыОпераций.EnumValue.SUCCESS" id="cbd886e8-80be-406c-acca-fd8b37f36760"/>
+			<Metadata name="Enum.C6_СБПСтатусыОпераций.EnumValue.NO_INFO" id="ffe2c73a-c1b5-4a89-9bca-4bf41901239b"/>
+		</Metadata>
+		<Metadata name="Enum.ВидыОперацийЧекККМ" id="7134be1b-bf1c-4bfc-a0f7-50174fc68fe1" configVersion="57b3ade70934f348aedce83601ab6d4a726b175e"/>
+		<Metadata name="Enum.СтатусыЧековККМ" id="457da2ea-985b-4224-966e-0849928f1258" configVersion="2b1111320c42f974c5953dbcef4c3a933fac51e8"/>
+		<Metadata name="Enum.ТипыОплатЧекаККМ" id="68740b77-790f-4593-90d5-c2509ab59f97" configVersion="67b34042811cb21d2d8ce1e380ecac98cd1e8690"/>
+		<Metadata name="ExchangePlan.C6_СБПНастройки" id="73b1f66d-30da-49f7-9598-f93af2c6cdaa" configVersion="0b2c5d4c41281a2b9db11423bec3c9157b951a68">
+			<Metadata name="ExchangePlan.C6_СБПНастройки.Attribute.МерчантИд" id="0c27830c-1b28-401a-8833-eabfe907fbb2"/>
+			<Metadata name="ExchangePlan.C6_СБПНастройки.Attribute.Токен" id="408cffc0-ee9a-4647-9cb9-26582a016e1f"/>
+			<Metadata name="ExchangePlan.C6_СБПНастройки.Attribute.Магазин" id="97f0d00d-8ad5-4d87-ad7a-f55486b82ddf"/>
+			<Metadata name="ExchangePlan.C6_СБПНастройки.Attribute.НомерРасчСчета" id="b4a65589-76de-46d3-a9d7-bd8eb432bf48"/>
+			<Metadata name="ExchangePlan.C6_СБПНастройки.Attribute.Хост" id="d267d819-b012-4342-9153-990fdea06897"/>
+			<Metadata name="ExchangePlan.C6_СБПНастройки.Attribute.Организация" id="ddc2a44d-7a4f-402a-a42d-3f406cc3da1b"/>
+			<Metadata name="ExchangePlan.C6_СБПНастройки.Attribute.ИмяПорта" id="fc461471-c54e-426c-ae12-704a091476c1"/>
+		</Metadata>
+		<Metadata name="InformationRegister.C6_СБПОперации" id="e1d82ff2-fdaa-4f8c-a5e6-db87160095e8" configVersion="359773bd8defa1d582acc724c0d5ddaa470cea13">
+			<Metadata name="InformationRegister.C6_СБПОперации.Dimension.СтатусОперации" id="0db3a56a-362a-4c18-ba0b-d06ff8dea107"/>
+			<Metadata name="InformationRegister.C6_СБПОперации.Dimension.Организация" id="114b9ba4-f65d-42c5-ba65-56f1b36e8c6c"/>
+			<Metadata name="InformationRegister.C6_СБПОперации.Resource.Сумма" id="24103fb1-2814-4487-9d89-35cb53362efb"/>
+			<Metadata name="InformationRegister.C6_СБПОперации.Dimension.Магазин" id="5068ad45-4efb-409d-8025-12d00ea5a814"/>
+			<Metadata name="InformationRegister.C6_СБПОперации.Dimension.ДокументОснование" id="8b4a95d7-d261-419c-b90a-9b82f1fef5b9"/>
+			<Metadata name="InformationRegister.C6_СБПОперации.Dimension.ВидОперации" id="fcf79fc3-9ea7-4fe0-8cb7-aead2a2f58a2"/>
+		</Metadata>
+		<Metadata name="InformationRegister.C6_СБПСтатусыКодов" id="b118d175-de85-4f32-8fb7-75ffa251e9b0" configVersion="c4271206247913f69a116ada4d4ced0610f533bd">
+			<Metadata name="InformationRegister.C6_СБПСтатусыКодов.Dimension.КодОплаты" id="05c32c0d-cea2-4882-837e-69032277d1ff"/>
+			<Metadata name="InformationRegister.C6_СБПСтатусыКодов.Attribute.URLКодаОплаты" id="1d5e324b-7e02-413c-b598-2270ce7701e4"/>
+			<Metadata name="InformationRegister.C6_СБПСтатусыКодов.Resource.Сумма" id="2d2f6de3-0b8d-4122-bfe9-a76dd6854038"/>
+			<Metadata name="InformationRegister.C6_СБПСтатусыКодов.Dimension.СтатусКодаОплаты" id="386eece2-9af7-40a0-aabe-cd6e06ede554"/>
+			<Metadata name="InformationRegister.C6_СБПСтатусыКодов.Dimension.ДокументОснование" id="3bc01791-6e81-4160-8b28-18eda8a5b1f1"/>
+			<Metadata name="InformationRegister.C6_СБПСтатусыКодов.Dimension.ДатаОплаты" id="5ae0fb3a-cc01-4c60-b4a8-06a7d65108ab"/>
+			<Metadata name="InformationRegister.C6_СБПСтатусыКодов.Attribute.ТранзакцияОплаты" id="a3517d54-56cb-4013-9baa-4c4c37a6b7fd"/>
+			<Metadata name="InformationRegister.C6_СБПСтатусыКодов.Attribute.ИзображениеКодаОплаты" id="a80e4bd0-06d6-47b0-9c1f-330233192183"/>
+			<Metadata name="InformationRegister.C6_СБПСтатусыКодов.Dimension.ДатаСоздания" id="ca51a32d-39ba-4994-b5aa-bcf2a49c6806"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="4d8fcb21-fd29-4f96-b08e-1899c011a8cc" configVersion="09b6076c81998c48308c4c2a33e939fa552fafc9"/>
+		<Metadata name="Role.C6_ОсновнаяРоль" id="266dd1bd-9cd6-46a1-9a9a-234c5533f0f9" configVersion="42999b7bd72390363fd76b753e9d8570f7bc3ad0"/>
+		<Metadata name="StyleItem.ИтогиФонГруппы" id="c838d6bd-9d70-4bd5-9fe6-95c7bfc7c07b" configVersion="75e88ee9fafd5e9f887cb9cc74c81a025bca8ef9"/>
+		<Metadata name="StyleItem.ПоясняющийТекст" id="b75dd26f-77e6-423c-b52b-065ba7aef597" configVersion="e13ab1c932bb4ba95228d496cbaeee139eb40e91"/>
+		<Metadata name="StyleItem.ТекстЗапрещеннойЯчейкиЦвет" id="967dce90-2f96-4e03-9ef7-8ee988e164ac" configVersion="7e30e1a83c0b0687d0551340c6bf5d5b2c151248"/>
+		<Metadata name="StyleItem.ФонУправляющегоПоля" id="1e6634a9-95af-4511-adcb-b5096d0e9125" configVersion="9861f92e4b7d18470a59b50358b6b25c5f996326"/>
+		<Metadata name="StyleItem.ЦветНепроведенногоДокумента" id="7080f05c-a65f-40cc-a070-e7460e2c729b" configVersion="d0799f1870e9daf6260212ce69d24725b40a65c1"/>
+		<Metadata name="StyleItem.ЦветПроведенногоДокумента" id="fa61bdbe-0d21-4573-b49f-70cd9e99d6a0" configVersion="fca92c068532b1015f1f8ba6bbf7db1e426c4fb3"/>
+		<Metadata name="StyleItem.ЦветТекстаОтмененнойСтрокиДокумента" id="d5308d80-b37c-468b-8320-31028ffc2194" configVersion="5eb47e28730f4a93ef2addab15b6cbfda7c0d1a1"/>
+		<Metadata name="Subsystem.C6_CБП" id="123df2e1-5405-440d-a748-eaac113c86fa" configVersion="7b46636ef63b859ff93a721f15f54de8f2376933"/>
+		<Metadata name="Subsystem.C6_CБП.Subsystem.C6_QRДисплей" id="1c361e73-86d5-45c5-bc1f-5099adceb2aa" configVersion="7b4572dbfe0269379c7d6cd4c56e0692e01b43c9"/>
+		<Metadata name="Subsystem.C6_CБП.Subsystem.C6_НастройкиСБП" id="3766f980-d46b-48e8-8509-b9001cc4a0e4" configVersion="900a9e0aa70f51ef30cd39eb913349d67e2df1b1"/>
+		<Metadata name="Subsystem.C6_CБП.Subsystem.C6_НастройкиСБП.CommandInterface" id="3766f980-d46b-48e8-8509-b9001cc4a0e4.1" configVersion="9222c4afd89a3410f30b337bbfa0960fcfe17f7c"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

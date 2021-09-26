@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
+	<Subsystem uuid="123df2e1-5405-440d-a748-eaac113c86fa">
+		<Properties>
+			<Name>C6_CБП</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Быстрые платежи (C6)</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment>//C6 Lab</Comment>
+			<IncludeHelpInContents>true</IncludeHelpInContents>
+			<IncludeInCommandInterface>true</IncludeInCommandInterface>
+			<Explanation/>
+			<Picture>
+				<xr:Ref>CommonPicture.C6_ЛогоБанка</xr:Ref>
+				<xr:LoadTransparent>true</xr:LoadTransparent>
+			</Picture>
+			<Content>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.C6_ЛогоБанка</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">8d8558e4-4309-41ab-8328-848d6bf38164</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonTemplate.C6_ДрайверQRДисплея32</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonTemplate.C6_ДрайверQRДисплея64</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.C6_РайффайзенAPIКлиент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.C6_РайффайзенAPIСервер</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.C6_СБПСервер</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.C6_СБПВызовСервера</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.C6_СБПКлиент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.C6_ОбщиеСервер</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.C6_QRДисплей</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.C6_QRДисплейВызовСервера</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.СобытияФормРТ</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.СобытияФормИС</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ПодключаемыеКомандыКлиент</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ДополнительныеОтчетыИОбработкиКлиентПереопределяемый</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.УправлениеПечатьюСлужебныйКлиент</xr:Item>
+			</Content>
+		</Properties>
+		<ChildObjects>
+			<Subsystem>C6_НастройкиСБП</Subsystem>
+			<Subsystem>C6_QRДисплей</Subsystem>
+		</ChildObjects>
+	</Subsystem>
+</MetaDataObject>

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
+	<Enum uuid="6abdd9f4-1841-43e5-be71-b491f4320577">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.C6_СБПСтатусыКодовОплаты" category="Ref">
+				<xr:TypeId>835ea75b-4323-4ac7-9c5c-62abb49ce1fc</xr:TypeId>
+				<xr:ValueId>932be84b-36c0-4bbf-adaf-1e2a4c6cd848</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.C6_СБПСтатусыКодовОплаты" category="Manager">
+				<xr:TypeId>c11ff0b8-1fb3-4a3f-a211-5b4d099e87b4</xr:TypeId>
+				<xr:ValueId>300d338e-207f-40ac-9e5d-df7914f5c352</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.C6_СБПСтатусыКодовОплаты" category="List">
+				<xr:TypeId>39384a4c-fde5-451c-b546-b49329beed13</xr:TypeId>
+				<xr:ValueId>79e1a568-3b9b-4e7c-b248-76ada9b91e5c</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>C6_СБПСтатусыКодовОплаты</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>СБП - статусы кодов оплаты (C6 Lab)</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment>//C6 Lab</Comment>
+			<UseStandardCommands>false</UseStandardCommands>
+			<Characteristics/>
+			<QuickChoice>true</QuickChoice>
+			<ChoiceMode>BothWays</ChoiceMode>
+			<DefaultListForm/>
+			<DefaultChoiceForm/>
+			<AuxiliaryListForm/>
+			<AuxiliaryChoiceForm/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="381cb3ac-52b5-4bde-a388-58c3506b0b38">
+				<Properties>
+					<Name>NO_INFO</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Не оплачен</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="add38fb3-d43b-415d-a9fa-1081a32ba7d0">
+				<Properties>
+					<Name>IN_PROGRESS</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Идет оплата</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="f74e6b29-e2ed-4726-bcd0-fb8363c302cc">
+				<Properties>
+					<Name>SUCCESS</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Оплачен</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="e70b621a-633d-4204-bbcf-71a5519cac38">
+				<Properties>
+					<Name>DECLINED</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Отклонен</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

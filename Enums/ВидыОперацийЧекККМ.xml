@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
+	<Enum uuid="7134be1b-bf1c-4bfc-a0f7-50174fc68fe1">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ВидыОперацийЧекККМ" category="Ref">
+				<xr:TypeId>99b271d1-5861-4561-8bd1-556b5827c4d1</xr:TypeId>
+				<xr:ValueId>15128131-5896-4b3f-8347-8ca9c4c00631</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ВидыОперацийЧекККМ" category="Manager">
+				<xr:TypeId>1faa5d02-cdc7-4d8f-ab2c-110466a5eab6</xr:TypeId>
+				<xr:ValueId>1521e803-fdbd-4a7d-8559-3a98c039c5bd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ВидыОперацийЧекККМ" category="List">
+				<xr:TypeId>5eeeeed6-d16b-4094-a824-478a0e94d52d</xr:TypeId>
+				<xr:ValueId>c3c2d522-1f30-4c38-a3a3-d94f93f39b99</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ВидыОперацийЧекККМ</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>4b74580e-623a-49c4-8875-18100ed13436</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Enum>
+</MetaDataObject>
